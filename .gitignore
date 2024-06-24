@@ -22,5 +22,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+<<<<<<< HEAD
 /.venv
 /patch
+=======
+/.venv
+>>>>>>> 22acab1a1f0f4aabdb7646ebf1ecff11bf92814f
